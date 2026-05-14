@@ -11,7 +11,6 @@ import logging
 from importlib import resources
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 
 logger = logging.getLogger(__name__)
@@ -93,8 +92,3 @@ def describe_quality(df: pd.DataFrame) -> pd.DataFrame:
             "n_unique": df.nunique(dropna=True),
         }
     ).sort_values("pct_missing", ascending=False)
-
-
-def _coerce_numeric(values: pd.Series) -> np.ndarray:
-    """Convert a pandas nullable series to a float numpy array (NA → NaN)."""
-    return values.astype("Float64").to_numpy(dtype=float, na_value=np.nan)
