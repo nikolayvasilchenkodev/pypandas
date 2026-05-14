@@ -24,6 +24,7 @@ classifiers = [
 dependencies = [
     "pandas>=2.1",
     "numpy>=1.26",
+    "rich>=13.7",
 ]
 
 [project.optional-dependencies]
@@ -38,8 +39,8 @@ dev = [
 real-estate-analysis = "real_estate_analysis.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/nickvasylchenko/pypandas"
-Repository = "https://github.com/nickvasylchenko/pypandas"
+Homepage = "https://github.com/nikolayvasilchenkodev/pypandas"
+Repository = "https://github.com/nikolayvasilchenkodev/pypandas"
 
 [tool.setuptools.packages.find]
 where = ["src"]

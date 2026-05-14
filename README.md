@@ -1,6 +1,6 @@
 # Real-Estate Analysis
 
-[![CI](https://github.com/nickvasylchenko/pypandas/actions/workflows/ci.yml/badge.svg)](https://github.com/nickvasylchenko/pypandas/actions/workflows/ci.yml)
+[![CI](https://github.com/nikolayvasilchenkodev/pypandas/actions/workflows/ci.yml/badge.svg)](https://github.com/nikolayvasilchenkodev/pypandas/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Code style: ruff](https://img.shields.io/badge/lint-ruff-46aef7)](https://docs.astral.sh/ruff/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -52,7 +52,7 @@ package layout, type hints, and a working CI pipeline.
 ## Install
 
 ```bash
-git clone https://github.com/nickvasylchenko/pypandas.git
+git clone https://github.com/nikolayvasilchenkodev/pypandas.git
 cd pypandas
 python -m venv .venv
 source .venv/bin/activate
@@ -80,16 +80,45 @@ CLI:
 real-estate-analysis --top 5 --verbose
 ```
 
+Flags:
+
+- `--csv PATH` — load a custom listings CSV (defaults to the bundled sample).
+- `--top N` — number of best-value listings to display (default 5).
+- `-v / --verbose` — enable INFO-level logging.
+- `--no-color` — disable ANSI colors (useful when piping).
+
 ## Example output
 
+Output is rendered with [`rich`](https://github.com/Textualize/rich) — colored
+headers, right-aligned numerics, comma-grouped numbers, and section rules:
+
 ```
-=== Market summary by neighborhood ===
-                 n_listings  median_price_usd  mean_price_usd  median_price_per_sqft  median_age_years  luxury_share
-neighborhood
-Harbor Heights           67           1340432         1356871                  561.0              58.0          76.1
-Old Town                 64            903211          927448                  410.5              62.5          39.1
-Downtown                 70            760150          799043                  336.0              55.0          24.3
-...
+╭─────────────────────────────────╮
+│  Real-Estate Market Report      │
+│  source bundled sample dataset  │
+│  rows   400                     │
+╰─────────────────────────────────╯
+────────────────────────────────────────────────────────────────────────────
+ Market summary by neighborhood
+
+ neighborhood     n_listings   median_price_usd   mean_price_usd   median_price_per_sqft   median_age_years   luxury_share
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ Harbor Heights           62          1,277,732     1,268,642.82                  554.53                 44          85.20
+ Old Town                 67          1,003,757          978,770                     369                 56          50.70
+ Downtown                 79            746,706       793,715.93                  321.60                 68          23.70
+ Westside                 65            626,296       620,850.48                  231.16                 74           4.70
+ Lakeview                 52         617,762.50       645,392.18                  291.64                 59              8
+ Maple Grove              75         511,191.50       531,833.66                  225.96              56.50           1.40
+────────────────────────────────────────────────────────────────────────────
+ Top 5 value listings ($/sqft)
+
+ listing_id   neighborhood   property_type   bedrooms   living_area_sqft   list_price_usd   price_per_sqft
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ L00067       Downtown       Single Family          6              3,820          383,735           100.45
+ L00209       Westside       Townhouse              3                824           95,000           115.29
+ L00237       Westside       Single Family          5              2,246          284,902           126.85
+ L00381       Westside       Townhouse              5              3,113          400,619           128.69
+ L00102       Downtown       Single Family          1              1,618          235,508           145.56
 ```
 
 ## Development
