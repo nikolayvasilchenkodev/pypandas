@@ -150,7 +150,9 @@ def main(argv: list[str] | None = None) -> int:
     _header(console, args.csv, len(listings))
 
     console.print(Rule(style="cyan"))
-    console.print(_df_to_table(describe_quality(listings), title="Data quality", index_label="column"))
+    console.print(
+        _df_to_table(describe_quality(listings), title="Data quality", index_label="column")
+    )
 
     console.print(Rule(style="cyan"))
     console.print(_df_to_table(market_summary(enriched), title="Market summary by neighborhood"))
