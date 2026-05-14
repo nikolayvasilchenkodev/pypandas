@@ -1,0 +1,407 @@
+listing_id,neighborhood,property_type,bedrooms,bathrooms,living_area_sqft,lot_size_sqft,year_built,List_Price_USD,Listed_At,status
+L00000,Downtown,Condo,3,3.0,3887,17561,2003,"$852,264",2025-03-19,Active
+L00001,Harbor Heights,Single Family,4,3.5,1264,1917,1909,"$783,234",2024-12-08,Active
+L00002,Maple Grove,Townhouse,3,2.5,1008,1772,1967,"$358,701",2024-08-08,Withdrawn
+L00003,Westside,Single Family,4,1.0,3118,11187,1953,N/A,2025-01-06,Active
+L00004,Maple Grove,Single Family,3,3.0,3805,5741,1935,"$663,727",2024-12-18,Sold
+L00005,Westside,Single Family,4,3.5,1057,5248,1909,"$357,611",2024-01-19,Active
+L00006,Harbor Heights,Single Family,4,2.5,4209,8248,1952,"$1,912,585",2025-01-21,Pending
+L00007,Westside,Single Family,6,4.5,3671,15926,1973,"$752,428",2024-03-13,Active
+L00008,Lakeview,Condo,6,3.0,2625,7399,1963,"$530,898",2024-06-27,Active
+L00009,Maple Grove,Condo,3,4.5,2937,11436,1947,"$559,251",2024-10-21,Active
+L00010,Downtown,Single Family,3,3.0,1296,10963,1982,"$641,077",2024-12-29,Pending
+L00011,Downtown,Condo,3,4.0,1877,1799,1980,"$819,516",2025-02-02,Active
+L00012,Old Town,Townhouse,3,4.0,3213,9409,1933,"$692,686",2025-01-11,Active
+L00013,Lakeview,Condo,3,2.0,699,8072,1992,"$430,110",2024-12-01,Pending
+L00014,Harbor Heights,Single Family,4,3.5,1905,1235,1949,"$1,096,333",2024-03-23,Sold
+L00015,Harbor Heights,Single Family,1,2.5,2834,217,1971,"$1,454,263",2024-10-18,Sold
+L00016,Harbor Heights,Single Family,5,1.0,2819,15316,2007,"$1,307,697",2024-01-18,Active
+L00017,Lakeview,Townhouse,5,2.0,1895,18844,1929,"$544,088",2024-11-20,Pending
+L00018,Lakeview,Condo,3,3.0,1854,18230,1928,"$589,514",2025-02-10,Active
+L00019,Maple Grove,Townhouse,1,3.5,2128,15096,1986,"$504,539",2024-11-19,Active
+L00020,Maple Grove,Single Family,4,3.0,3492,6930,1941,"$702,269",2024-08-04,Active
+L00021,Old Town,Single Family,3,5.0,2783,18207,2013,"$1,026,921",2024-05-01,Active
+L00022,Harbor Heights,Condo,2,3.0,2775,5531,1979,"$1,539,725",2024-08-08,Pending
+L00023,Westside,Condo,4,3.5,1872,8857,1908,"$544,937",2024-07-14,Active
+L00024,Westside,Condo,3,1.5,1365,6783,1940,"$506,710",2025-03-23,Sold
+L00025,Downtown,Single Family,5,4.0,4244,4119,1912,"$1,361,679",2024-09-20,Sold
+L00026,Maple Grove,Multi-Family,2,2.5,1522,11770,1985,"$349,077",2025-01-07,Active
+L00027,Old Town,Single Family,2,2.0,4372,11638,1977,"$1,040,736",2024-07-10,Active
+L00028,Westside,Multi-Family,1,4.5,3367,4488,1946,"$616,333",2024-06-17,Active
+L00029,Lakeview,Multi-Family,1,4.5,1361,6915,2011,"$403,093",2024-11-02,Active
+L00030,Maple Grove,Single Family,4,2.0,1205,18650,1992,"$310,547",2024-11-11,Sold
+L00031,Lakeview,Single Family,3,3.5,4483,11854,1973,"$929,849",2024-04-28,Active
+L00032,Harbor Heights,Single Family,4,4.5,1344,4308,2022,"$1,110,681",2024-08-11,Active
+L00033,Downtown,Single Family,5,4.0,4011,14704,1947,"$1,208,292",2024-10-08,Active
+L00034,Harbor Heights,Single Family,1,4.0,1353,7079,1918,"$1,137,122",2025-03-17,Active
+L00035,Lakeview,Single Family,3,3.5,3462,15130,2015,"$1,096,650",2024-02-21,Active
+L00036,Downtown,Single Family,3,1.5,1272,4431,1970,"$769,563",2024-02-15,Pending
+L00037,Old Town,Single Family,1,5.0,3221,11838,1938,"$961,783",2024-03-19,Sold
+L00038,Old Town,Townhouse,5,1.5,4078,17878,1972,"$1,558,639",2024-01-12,Sold
+L00039,Harbor Heights,Multi-Family,5,4.0,3349,2032,2010,"$1,606,478",2024-02-12,Sold
+L00040,Downtown,Single Family,3,1.5,2537,3021,1948,"$499,636",2024-10-14,Active
+L00041,Maple Grove,Condo,2,3.0,1095,6626,1994,"$250,901",2024-06-02,Sold
+L00042,Downtown,Condo,3,4.5,693,3800,1958,"$652,531",2024-03-21,Active
+L00043,Old Town,Condo,2,1.5,986,7292,2021,"$775,595",2024-05-14,Active
+L00044,Maple Grove,Condo,6,2.5,4211,16583,1961,"$911,670",2024-02-20,Active
+L00045,Downtown,Single Family,6,4.0,973,3314,2017,"$583,309",2025-02-01,Active
+L00046,Maple Grove,Single Family,1,2.5,2409,7501,1969,"$602,467",2024-08-01,Sold
+L00047,Maple Grove,Condo,5,4.0,2599,13802,1954,"$580,612",2025-03-02,Active
+L00048,Harbor Heights,Single Family,2,2.0,663,2063,2003,"$940,299",2025-02-17,Active
+L00049,Lakeview,Townhouse,4,2.5,3014,12832,1906,"$904,310",2025-02-11,Active
+L00050,Old Town,Single Family,1,2.5,3761,5486,1911,"$1,046,244",2024-06-06,Active
+L00051,Lakeview,Multi-Family,5,2.0,1210,13889,1928,"$450,902",2024-07-10,Active
+L00052,Maple Grove,Condo,2,3.0,2755,6981,1994,"$688,001",2025-01-03,Sold
+L00053,Lakeview,Single Family,1,3.0,1156,16674,1957,"$442,175",2025-02-04,Sold
+L00054,Old Town,Condo,1,3.5,1979,14582,1931,"$803,839",2024-11-23,Pending
+L00055,Westside,Single Family,5,2.0,627,19150,1970,"$386,964",2024-12-18,Sold
+L00056,Harbor Heights,Single Family,4,1.5,1804,9733,1955,"$1,002,582",2025-02-12,Sold
+L00057,Downtown,Multi-Family,5,4.0,2158,6258,1905,"$735,353",2024-12-03,Pending
+L00058,Westside,Multi-Family,2,1.0,3301,10889,1939,"$884,928",2024-11-04,Sold
+L00059,Lakeview,Townhouse,5,3.0,3281,11296,1969,"$664,014",2025-01-18,Active
+L00060,Maple Grove,Single Family,6,2.5,1451,4223,2024,"$292,567",2025-02-25,Active
+L00061,Old Town,Single Family,2,2.0,4219,18251,1979,"$1,792,929",2024-02-01,Pending
+L00062,Maple Grove,Multi-Family,5,1.0,1888,9506,1991,"$457,228",2024-04-04,Sold
+L00063,Downtown,Townhouse,5,2.5,3513,9304,1917,"$955,972",2025-01-13,Sold
+L00064,Downtown,Multi-Family,3,2.5,4226,2110,1932,"$1,022,145",2024-10-14,Sold
+L00065,Harbor Heights,Condo,5,2.0,2102,14039,1968,"$801,148",2024-04-16,Active
+L00066,Downtown,Multi-Family,1,2.0,4203,16456,1973,"$1,131,919",2024-02-25,Active
+L00067,Downtown,Single Family,6,1.5,3820,2075,1911,"$383,735",2024-12-22,Active
+L00068,Old Town,Condo,5,4.0,1114,2249,1993,"$556,719",2025-03-01,Active
+L00069,Westside,Single Family,5,3.5,4369,8723,1942,"$877,585",2024-03-08,Sold
+L00070,Harbor Heights,Townhouse,2,5.0,604,4227,2005,"$1,549,102",2025-03-16,Pending
+L00071,Maple Grove,Single Family,6,2.0,2114,225,2002,"$494,932",2024-11-25,Sold
+L00072,Lakeview,Condo,3,3.5,1871,18856,1919,"$713,992",2025-03-21,Active
+L00073,Lakeview,Single Family,4,2.0,2505,8457,1954,"$525,483",2024-09-09,Active
+L00074,Maple Grove,Single Family,5,5.0,1714,3374,1924,"$399,697",2024-09-02,Active
+L00075,Downtown,Single Family,2,4.5,2837,471,1929,"$979,483",2024-06-16,Active
+L00076,Maple Grove,Condo,5,2.0,2762,2591,1985,"$690,248",2024-01-06,Active
+L00077,Downtown,Single Family,2,4.0,2394,322,1916,"$1,193,944",2024-10-28,Active
+L00078,Lakeview,Single Family,6,2.0,688,19218,2015,"$704,479",2024-05-23,Sold
+L00079,Harbor Heights,Single Family,6,5.0,923,19651,2013,"$442,226",2024-10-05,Sold
+L00080,Old Town,Townhouse,1,2.5,4254,16544,1959,"$821,841",2024-02-24,Sold
+L00081,Harbor Heights,Townhouse,1,2.5,1247,18723,2022,"$1,468,515",2024-03-31,Active
+L00082,Harbor Heights,Condo,1,4.5,1345,4182,1995,"$1,013,342",2024-09-13,Active
+L00083,Downtown,Condo,3,1.0,3684,5785,1946,"$840,510",2024-02-21,Active
+L00084,Downtown,Single Family,5,4.0,770,10135,1999,"$248,200",2024-06-02,Sold
+L00085,Downtown,Single Family,5,1.0,702,14702,1920,"$524,687",2024-11-06,Sold
+L00086,Downtown,Townhouse,1,2.0,4443,10571,1967,"$1,225,327",2024-06-16,Sold
+L00087,Downtown,Single Family,2,4.5,3406,4591,1931,"$1,002,011",2025-02-13,Active
+L00088,Maple Grove,Single Family,1,2.0,3738,17234,1994,"$853,409",2024-09-10,Sold
+L00089,Harbor Heights,Condo,3,4.0,1944,1291,1972,"$1,329,948",2024-08-03,Active
+L00090,Maple Grove,Townhouse,6,2.0,1781,2813,2016,"$440,159",2024-07-15,Sold
+L00091,Lakeview,Condo,5,1.5,2214,12734,1907,"$786,649",2024-12-03,Active
+L00092,Maple Grove,Single Family,2,3.0,4157,8611,1991,"$849,280",2024-02-07,Active
+L00093,Downtown,Condo,3,3.0,1163,19426,1971,"$703,686",2024-06-28,Active
+L00094,Westside,Single Family,5,2.0,2627,1487,2013,"$768,564",2024-07-19,Sold
+L00095,Downtown,Multi-Family,3,1.5,865,4075,1999,N/A,2024-02-06,Active
+L00096,Maple Grove,Multi-Family,5,5.0,1679,13106,1927,"$368,584",2024-01-24,Sold
+L00097,Maple Grove,Condo,6,4.5,1182,2288,1980,"$321,306",2024-07-18,Withdrawn
+L00098,Maple Grove,Single Family,5,2.0,2026,16731,1944,"$595,231",2024-04-16,Active
+L00099,Harbor Heights,Single Family,2,3.0,3439,10104,1950,"$1,046,055",2024-09-23,Pending
+L00100,Maple Grove,Single Family,3,2.5,2469,10865,1973,"$494,705",2024-04-02,Sold
+L00101,Old Town,Multi-Family,2,2.5,3283,12805,1967,"$1,040,574",2024-12-21,Sold
+L00102,Downtown,Single Family,1,3.0,1618,16496,2023,"$235,508",2024-05-06,Active
+L00103,Westside,Single Family,5,4.0,3632,13705,2016,"$640,968",2024-01-18,Pending
+L00104,Old Town,Townhouse,3,3.0,3118,16323,2011,"$1,110,530",2024-02-26,Active
+L00105,Westside,Single Family,4,3.5,3882,17451,1935,"$829,492",2024-03-16,Active
+L00106,Old Town,Townhouse,1,5.0,1091,8734,1980,"$704,525",2024-10-02,Sold
+L00107,Westside,Condo,4,4.0,3740,9828,1991,"$1,032,403",2024-03-20,Sold
+L00108,Lakeview,Single Family,5,4.0,3755,14118,1938,"$992,268",2024-06-26,Sold
+L00109,Old Town,Townhouse,4,3.5,1666,15703,1959,"$918,641",2025-01-13,Active
+L00110,Maple Grove,Single Family,3,4.0,4467,10225,1914,"$973,948",2024-08-09,Active
+L00111,Harbor Heights,Townhouse,4,4.5,3884,5921,1938,"$2,083,899",2024-10-26,Pending
+L00112,Downtown,Single Family,1,1.0,3453,13752,1953,"$695,163",2024-04-05,Active
+L00113,Harbor Heights,Single Family,5,4.5,3411,17245,1985,"$1,486,163",2025-01-05,Active
+L00114,Harbor Heights,Single Family,4,3.5,4294,8788,1981,"$1,430,173",2024-05-27,Active
+L00115,Downtown,Condo,1,1.5,3631,5839,1909,"$1,256,834",2024-01-20,Pending
+L00116,Maple Grove,Single Family,5,3.5,1198,16451,2005,"$392,266",2024-05-07,Active
+L00117,Old Town,Single Family,5,3.0,3269,18848,1949,"$1,030,297",2024-12-25,Active
+L00118,Harbor Heights,Townhouse,2,3.0,1258,415,1984,"$1,253,252",2025-01-25,Sold
+L00119,Westside,Single Family,4,2.5,1354,2836,1921,"$512,917",2024-03-02,Sold
+L00120,Maple Grove,Townhouse,4,3.0,3111,15776,2007,"$507,019",2024-01-09,Sold
+L00121,Maple Grove,Townhouse,1,2.0,631,2137,1917,"$161,639",2024-10-20,Active
+L00122,Old Town,Single Family,2,1.0,3718,6179,1931,"$1,317,872",2024-07-25,Active
+L00123,Harbor Heights,Townhouse,5,2.0,2386,2958,2013,"$1,039,142",2024-07-30,Active
+L00124,Maple Grove,Townhouse,6,2.0,3399,17033,2000,"$590,937",2024-10-30,Active
+L00125,Old Town,Single Family,4,3.0,1042,8619,1939,"$818,646",2024-05-04,Active
+L00126,Maple Grove,Townhouse,5,5.0,1462,7841,1934,"$442,883",2024-06-03,Active
+L00127,Lakeview,Townhouse,1,3.0,3686,1707,1912,"$1,120,006",2024-04-30,Active
+L00128,Old Town,Condo,3,1.5,2557,5554,1986,"$1,211,781",2024-10-12,Pending
+L00129,Lakeview,Single Family,5,1.5,1189,7942,1927,"$407,341",2024-03-08,Sold
+L00130,Downtown,Condo,5,3.0,946,14167,1970,"$749,234",2024-03-31,Active
+L00131,Old Town,Single Family,2,2.5,1289,12015,1959,"$1,214,351",2024-07-09,Active
+L00132,Downtown,Condo,4,4.5,1626,2122,1931,"$708,067",2024-12-03,Active
+L00133,Maple Grove,Multi-Family,4,3.5,3061,7094,1990,"$526,667",2024-06-19,Sold
+L00134,Lakeview,Single Family,4,2.5,3586,11754,1980,"$886,478",2024-01-14,Active
+L00135,Old Town,Multi-Family,3,5.0,1145,13205,2018,"$644,336",2024-08-01,Active
+L00136,Westside,Multi-Family,1,5.0,3229,16763,1914,"$978,998",2025-03-04,Active
+L00137,Old Town,Townhouse,1,1.5,4261,10868,1956,"$1,144,492",2024-01-25,Active
+L00138,Harbor Heights,Townhouse,5,1.5,1877,2197,2006,"$1,395,758",2024-01-17,Active
+L00139,Maple Grove,Single Family,1,3.5,3336,12,2003,"$783,345",2024-11-12,Pending
+L00140,Maple Grove,Condo,6,3.5,3145,12326,2002,"$616,280",2024-08-14,Active
+L00141,Maple Grove,Single Family,3,3.0,885,19782,2020,"$199,846",2025-01-31,Active
+L00142,Harbor Heights,Single Family,4,3.0,1772,8780,1997,"$1,049,602",2024-08-20,Pending
+L00143,Westside,Townhouse,4,5.0,2746,4707,1906,"$539,798",2024-02-29,Sold
+L00144,Downtown,Single Family,5,1.5,2997,15228,1924,"$802,683",2024-01-19,Active
+L00145,Maple Grove,Single Family,4,2.0,1260,2236,1946,"$291,270",2024-01-10,Active
+L00146,Maple Grove,Single Family,6,3.0,3541,2069,1924,"$880,542",2024-01-10,Active
+L00147,Old Town,Townhouse,3,4.5,2235,10723,1971,"$622,842",2024-02-13,Pending
+L00148,Downtown,Townhouse,4,1.5,1965,19100,1960,"$530,600",2024-12-12,Sold
+L00149,Downtown,Single Family,2,2.0,848,9689,2004,"$744,178",2024-02-06,Active
+L00150,Harbor Heights,Condo,4,4.0,1738,7077,1995,"$886,845",2024-08-27,Sold
+L00151,Downtown,Single Family,1,3.0,1244,1873,1972,"$635,648",2024-09-09,Pending
+L00152,Downtown,Single Family,5,5.0,2920,714,1939,"$943,835",2024-02-08,Sold
+L00153,Lakeview,Single Family,5,3.5,1866,4088,0,"$506,359",2025-01-20,Pending
+L00154,Downtown,Single Family,2,4.0,1715,9284,2008,N/A,2024-12-31,Active
+L00155,Downtown,Single Family,1,4.0,2665,19638,2003,"$658,734",2024-08-18,Active
+L00156,Westside,Multi-Family,4,4.5,1871,19469,1933,"$449,878",2025-01-22,Active
+L00157,Westside,Single Family,1,1.5,3714,6825,1999,"$643,278",2025-01-03,Active
+L00158,Westside,Townhouse,6,2.5,3056,16662,1934,"$729,351",2024-10-15,Sold
+L00159,Downtown,Single Family,1,1.5,4289,6778,1930,"$1,131,214",2024-06-25,Pending
+L00160,Maple Grove,Condo,3,2.5,3947,17373,2007,"$727,653",2024-06-03,Sold
+L00161,Downtown,Single Family,4,4.5,908,1481,1993,"$490,217",2024-12-17,Sold
+L00162,Old Town,Condo,2,1.5,3179,3206,1929,"$929,870",2024-11-23,Sold
+L00163,Downtown,Single Family,4,3.0,4407,7382,1991,"$681,881",2024-06-08,Active
+L00164,Maple Grove,Townhouse,4,2.0,1666,12998,1945,"$352,100",2024-02-27,Active
+L00165,Lakeview,Townhouse,3,4.5,2346,211,1905,"$626,852",2025-03-11,Withdrawn
+L00166,Harbor Heights,Townhouse,6,2.0,1591,6622,1938,"$1,355,271",2025-02-26,Active
+L00167,Maple Grove,Condo,6,4.5,2060,1362,1909,"$441,807",2025-03-20,Active
+L00168,Maple Grove,Condo,5,4.0,2870,8408,1983,"$584,269",2024-03-21,Sold
+L00169,Lakeview,Single Family,2,2.5,1528,12736,1941,N/A,2025-02-22,Sold
+L00170,Downtown,Single Family,6,4.0,1139,8330,1926,"$804,559",2024-06-07,Active
+L00171,Old Town,Single Family,2,4.0,2837,3131,1992,"$1,059,300",2024-01-07,Active
+L00172,Westside,Single Family,4,3.5,883,19359,1996,"$151,954",2024-06-17,Sold
+L00173,Old Town,Condo,5,3.5,1019,17636,1921,"$733,329",2024-07-11,Active
+L00174,Downtown,Townhouse,5,4.5,2534,214,1957,"$670,409",2024-05-24,Active
+L00175,Lakeview,Condo,2,3.0,3605,322,1980,"$690,613",2024-07-23,Active
+L00176,Old Town,Multi-Family,6,2.5,2252,9335,1921,"$950,204",2024-10-04,Active
+L00177,Maple Grove,Single Family,4,2.0,1159,828,1913,"$296,440",2024-05-18,Pending
+L00178,Downtown,Single Family,5,3.0,4402,17378,1989,"$1,169,516",2024-07-11,Active
+L00179,Harbor Heights,Multi-Family,2,4.0,4133,15024,1981,"$1,277,732",2024-01-17,Sold
+L00180,Downtown,Single Family,4,3.0,3631,9664,1970,"$842,899",2025-03-18,Sold
+L00181,Harbor Heights,Single Family,3,1.5,800,10589,2001,"$1,025,328",2024-04-15,Active
+L00182,Maple Grove,Multi-Family,3,3.5,1287,11261,1941,"$375,682",2024-07-08,Sold
+L00183,Old Town,Condo,3,3.5,1015,19583,2009,"$776,040",2024-09-26,Active
+L00184,Lakeview,Condo,3,3.5,863,9472,2010,"$346,607",2024-08-02,Active
+L00185,Downtown,Single Family,2,4.0,4448,4542,2010,N/A,2024-06-07,Active
+L00186,Old Town,Single Family,3,3.0,2340,13398,1969,"$893,027",2024-08-02,Sold
+L00187,Lakeview,Condo,2,2.0,1038,4039,2017,"$289,148",2024-10-24,Active
+L00188,Westside,Single Family,1,3.5,4267,9497,1951,"$842,728",2024-08-01,Sold
+L00189,Maple Grove,Condo,5,4.0,1529,1544,2021,"$263,998",2024-12-17,Active
+L00190,Westside,Townhouse,5,4.0,3692,13871,1964,"$740,268",2024-01-24,Active
+L00191,Lakeview,Condo,1,4.0,1705,10795,1985,"$273,659",2025-01-05,Sold
+L00192,Old Town,Condo,2,3.5,3287,9573,1924,"$886,428",2024-01-02,Active
+L00193,Westside,Townhouse,5,2.5,1710,7467,1964,"$608,851",2024-04-11,Pending
+L00194,Lakeview,Single Family,5,1.5,617,18294,1929,"$363,804",2024-07-27,Sold
+L00195,Maple Grove,Condo,3,1.5,2650,2052,1925,"$642,778",2024-01-27,Pending
+L00196,Westside,Condo,5,4.0,2078,8271,2010,"$302,473",2024-11-16,Active
+L00197,Downtown,Townhouse,3,2.0,848,14624,1957,"$561,533",2024-09-12,Pending
+L00198,Old Town,Single Family,2,2.0,2495,13978,1908,"$1,267,659",2024-04-03,Sold
+L00199,Old Town,Single Family,1,1.5,1934,7964,1960,"$627,512",2024-03-05,Sold
+L00200,Maple Grove,Condo,5,3.0,2879,16327,1993,"$702,046",2024-03-30,Active
+L00201,Lakeview,Single Family,4,1.5,3772,335,1913,"$788,291",2024-12-25,Active
+L00202,Lakeview,Single Family,6,3.0,1464,7218,2014,"$566,981",2024-11-22,Sold
+L00203,Westside,Townhouse,4,2.5,764,18442,1965,"$307,283",2024-09-09,Active
+L00204,Old Town,Townhouse,4,2.5,3072,16211,1972,"$1,255,594",2024-12-03,Sold
+L00205,Lakeview,Single Family,6,5.0,2497,3876,1957,"$491,186",2025-02-22,Sold
+L00206,Westside,Single Family,1,4.5,2395,19751,1971,"$661,349",2024-01-09,Active
+L00207,Downtown,Condo,3,4.5,1509,15698,1957,"$575,717",2024-11-22,Withdrawn
+L00208,Old Town,Multi-Family,2,1.5,1018,6757,2004,"$978,066",2024-04-16,Sold
+L00209,Westside,Townhouse,3,3.5,824,1362,1911,"$95,000",2024-09-26,Active
+L00210,Downtown,Condo,4,3.5,4227,17934,1964,"$1,303,701",2024-05-07,Active
+L00211,Westside,Single Family,5,1.5,2087,14152,1926,"$379,941",2024-09-24,Sold
+L00212,Old Town,Multi-Family,6,4.5,2867,16673,1939,"$903,296",2024-11-27,Sold
+L00213,Old Town,Single Family,1,1.0,2943,8527,1974,"$1,101,959",2024-05-22,Pending
+L00214,Westside,Single Family,3,2.0,2230,466,2011,"$437,901",2024-09-18,Active
+L00215,Lakeview,Condo,5,1.0,4335,11504,2003,"$1,009,900",2025-01-29,Sold
+L00216,Old Town,Single Family,2,2.5,1669,18495,2003,"$969,458",2024-06-21,Active
+L00217,Harbor Heights,Single Family,5,2.0,3818,3635,1947,"$1,553,081",2024-12-20,Active
+L00218,Old Town,Condo,3,3.5,4428,1655,1964,"$1,144,143",2024-10-09,Sold
+L00219,Harbor Heights,Single Family,4,4.0,4367,7931,1980,"$1,619,534",2024-10-15,Active
+L00220,Maple Grove,Condo,6,1.0,3258,4181,2012,N/A,2025-01-17,Sold
+L00221,Westside,Single Family,3,4.0,1995,18873,1906,"$584,818",2024-01-28,Sold
+L00222,Old Town,Multi-Family,3,3.5,4383,9641,2015,"$1,512,896",2024-08-05,Active
+L00223,Lakeview,Multi-Family,3,4.5,4407,12860,2002,"$1,000,242",2024-03-19,Sold
+L00224,Lakeview,Condo,5,1.0,1685,3383,1969,"$680,936",2025-02-01,Active
+L00225,Westside,Condo,4,4.5,4247,9679,1939,"$848,313",2024-12-30,Sold
+L00226,Old Town,Single Family,2,5.0,4255,13739,1958,"$1,493,865",2024-12-17,Pending
+L00227,Downtown,Single Family,5,2.0,898,3969,1975,"$634,466",2024-11-26,Pending
+L00228,Maple Grove,Condo,4,4.0,3671,12800,1963,"$731,263",2024-01-28,Sold
+L00229,Maple Grove,Single Family,4,2.5,3945,3354,1990,"$680,823",2025-03-22,Pending
+L00230,Westside,Single Family,1,3.5,1452,18848,1944,"$323,104",2024-02-05,Active
+L00231,Maple Grove,Single Family,4,4.5,1640,19781,1919,"$395,991",2024-05-25,Sold
+L00232,Downtown,Single Family,5,5.0,1412,7504,1952,"$410,797",2024-04-01,Sold
+L00233,Maple Grove,Townhouse,4,2.0,2402,6958,1932,"$446,677",2025-03-11,Active
+L00234,Westside,Townhouse,6,4.0,3420,5129,1940,"$584,754",2025-03-14,Active
+L00235,Downtown,Condo,6,3.5,3215,5952,2017,"$1,050,841",2025-03-12,Pending
+L00236,Westside,Single Family,3,1.0,1156,12113,1986,"$487,537",2025-02-03,Sold
+L00237,Westside,Single Family,5,3.0,2246,17389,1940,"$284,902",2024-08-06,Pending
+L00238,Downtown,Townhouse,5,3.5,1272,9208,2022,"$675,109",2024-04-10,Sold
+L00239,Downtown,Townhouse,2,5.0,4386,17320,1928,"$1,245,587",2025-02-03,Sold
+L00240,Maple Grove,Single Family,6,4.5,2660,6033,1969,"$563,055",2025-03-17,Sold
+L00241,Westside,Single Family,6,1.5,4360,512,2002,"$933,763",2024-03-20,Sold
+L00242,Harbor Heights,Condo,4,4.0,3475,17530,1966,"$1,365,622",2024-04-02,Sold
+L00243,Lakeview,Condo,4,2.5,2957,14048,1928,"$942,615",2024-11-14,Active
+L00244,Old Town,Townhouse,4,1.5,3447,1217,1980,"$1,003,757",2024-10-10,Active
+L00245,Downtown,Single Family,5,3.5,3262,10338,1925,"$1,124,799",2024-03-21,Pending
+L00246,Old Town,Condo,1,2.5,3094,5789,2020,"$1,071,023",2024-05-15,Active
+L00247,Maple Grove,Townhouse,1,3.5,2114,9459,1947,"$488,942",2025-03-11,Active
+L00248,Downtown,Single Family,1,2.5,2482,18447,1934,"$704,792",2025-01-19,Active
+L00249,Old Town,Single Family,2,4.5,2660,15743,1967,"$1,023,602",2024-09-15,Sold
+L00250,Harbor Heights,Single Family,1,2.0,1867,16604,1951,"$1,031,112",2024-06-04,Pending
+L00251,Maple Grove,Condo,3,4.0,1118,445,2019,"$278,815",2025-02-07,Active
+L00252,Downtown,Condo,3,4.0,1304,11366,1941,"$673,923",2024-09-05,Sold
+L00253,Downtown,Condo,3,2.5,1488,2024,1906,"$514,536",2024-11-07,Sold
+L00254,Downtown,Condo,2,3.5,1615,6542,1936,"$920,777",2025-01-04,Active
+L00255,Harbor Heights,Condo,1,3.5,1665,14033,1907,"$1,395,004",2024-01-10,Sold
+L00256,Westside,Condo,4,3.0,3987,6947,1962,"$806,728",2024-02-13,Active
+L00257,Harbor Heights,Townhouse,3,2.5,3244,17158,1918,"$1,527,244",2024-03-06,Active
+L00258,Old Town,Single Family,4,3.0,1257,11410,1993,"$1,121,665",2024-11-27,Active
+L00259,Old Town,Condo,6,1.0,3269,13003,1993,"$761,715",2024-06-12,Withdrawn
+L00260,Old Town,Townhouse,4,5.0,3246,11123,1933,"$751,143",2024-04-26,Sold
+L00261,Lakeview,Single Family,1,2.5,1544,16077,1997,"$645,043",2024-01-22,Active
+L00262,Old Town,Single Family,1,1.5,3446,8165,1969,"$918,713",2024-07-11,Sold
+L00263,Westside,Single Family,4,1.0,4278,19519,1912,"$1,010,525",2024-10-19,Active
+L00264,Downtown,Single Family,6,4.5,3691,950,1918,"$915,340",2024-04-13,Pending
+L00265,Lakeview,Single Family,1,1.5,3438,8811,2014,"$819,091",2024-08-17,Active
+L00266,Maple Grove,Condo,2,4.5,4462,19590,1975,"$963,324",2024-11-26,Pending
+L00267,Harbor Heights,Condo,2,1.5,2252,19755,1970,"$1,430,233",2024-01-15,Pending
+L00268,Lakeview,Single Family,2,2.5,2098,17392,1909,"$502,490",2024-07-14,Active
+L00269,Downtown,Single Family,2,3.0,790,19624,1946,"$713,044",2024-04-18,Pending
+L00270,Maple Grove,Single Family,2,3.5,4318,12407,1939,"$1,002,077",2024-04-03,Active
+L00271,Westside,Single Family,2,3.0,3794,9937,1975,"$682,396",2024-07-14,Sold
+L00272,Old Town,Single Family,6,2.5,4159,11079,1946,"$1,319,245",2024-11-27,Pending
+L00273,Westside,Condo,3,4.5,4443,12230,1935,"$907,822",2024-01-30,Pending
+L00274,Maple Grove,Single Family,2,4.0,999,12047,2011,"$331,519",2024-08-30,Withdrawn
+L00275,Old Town,Condo,6,3.5,2620,3025,2012,"$1,126,242",2024-12-12,Sold
+L00276,Lakeview,Single Family,2,5.0,1310,12217,1925,"$608,673",2025-02-26,Active
+L00277,Harbor Heights,Single Family,6,4.5,2772,11720,0,"$1,315,102",2024-07-18,Active
+L00278,Westside,Multi-Family,2,3.5,3298,18519,1909,"$777,952",2024-12-14,Sold
+L00279,Old Town,Single Family,4,2.5,1948,16666,1982,"$698,384",2024-12-25,Active
+L00280,Westside,Single Family,6,1.5,1975,19995,1944,"$601,119",2024-03-15,Active
+L00281,Westside,Single Family,2,4.0,2184,19304,1981,"$676,501",2024-01-01,Active
+L00282,Old Town,Single Family,5,3.0,3014,1995,1971,"$968,650",2024-08-09,Active
+L00283,Downtown,Condo,6,1.5,4172,18988,2016,"$1,095,255",2024-05-21,Sold
+L00284,Downtown,Single Family,5,4.5,3104,6901,1951,"$870,018",2025-02-17,Sold
+L00285,Old Town,Multi-Family,1,2.0,1107,12687,2020,"$382,435",2025-01-23,Active
+L00286,Downtown,Single Family,3,4.0,2087,13398,1929,"$615,266",2024-07-09,Active
+L00287,Lakeview,Single Family,1,1.5,1089,266,1966,"$389,976",2025-01-02,Sold
+L00288,Maple Grove,Townhouse,2,4.0,2628,5279,1962,"$529,080",2024-12-21,Active
+L00289,Westside,Single Family,5,1.0,1805,3529,1946,"$508,474",2024-10-05,Sold
+L00290,Old Town,Condo,6,3.5,978,19683,1929,"$618,095",2025-01-01,Active
+L00291,Downtown,Condo,6,3.5,3634,16286,1918,"$938,324",2024-08-01,Active
+L00292,Downtown,Townhouse,4,2.5,2873,3519,1998,"$809,483",2024-09-20,Active
+L00293,Harbor Heights,Townhouse,5,3.5,1758,181,2000,"$1,200,199",2024-11-26,Active
+L00294,Harbor Heights,Single Family,4,1.0,2941,9779,2024,"$1,067,561",2025-01-11,Pending
+L00295,Westside,Single Family,2,1.5,4272,3905,1933,"$1,131,451",2024-05-14,Active
+L00296,Westside,Condo,6,2.5,2286,4445,1926,"$636,259",2025-02-06,Active
+L00297,Westside,Condo,4,4.0,785,2270,2006,"$315,516",2024-04-05,Sold
+L00298,Harbor Heights,Single Family,6,4.0,4029,13297,2022,N/A,2025-01-13,Active
+L00299,Downtown,Single Family,1,5.0,4294,8601,1950,"$1,099,446",2025-03-22,Active
+L00300,Harbor Heights,Condo,5,3.5,3072,5911,2013,"$1,227,176",2024-04-06,Active
+L00301,Westside,Single Family,1,1.0,1277,1003,1987,"$228,241",2024-05-28,Active
+L00302,Maple Grove,Townhouse,1,2.0,2876,4846,2008,"$515,364",2024-11-21,Sold
+L00303,Maple Grove,Single Family,2,4.0,1557,540,1997,"$381,908",2024-10-24,Active
+L00304,Harbor Heights,Single Family,4,1.5,4239,16962,2024,"$1,693,364",2024-09-03,Active
+L00305,Maple Grove,Single Family,4,1.5,3232,5260,1954,"$479,936",2025-03-09,Active
+L00306,Old Town,Single Family,4,4.5,1367,10845,1916,"$899,156",2024-10-29,Active
+L00307,Westside,Townhouse,5,5.0,2372,12902,1984,"$666,593",2024-10-05,Active
+L00308,Harbor Heights,Condo,2,4.5,1057,15247,1937,"$1,029,201",2024-04-25,Sold
+L00309,Westside,Condo,3,1.5,4188,3140,1986,"$927,865",2024-06-27,Withdrawn
+L00310,Downtown,Multi-Family,6,2.0,3352,6958,1988,"$1,005,709",2024-06-27,Withdrawn
+L00311,Old Town,Single Family,3,2.5,752,18817,1986,"$465,267",2024-05-13,Active
+L00312,Old Town,Condo,6,2.0,4051,3234,1923,"$1,221,840",2024-11-03,Active
+L00313,Harbor Heights,Single Family,5,3.0,1715,19380,1948,"$1,150,079",2024-12-22,Active
+L00314,Maple Grove,Townhouse,1,4.5,2044,12878,1962,"$462,168",2024-10-24,Active
+L00315,Old Town,Single Family,6,4.0,4311,9084,1948,"$1,301,746",2024-08-10,Pending
+L00316,Maple Grove,Single Family,3,2.0,2734,7796,1933,"$538,968",2024-12-29,Active
+L00317,Harbor Heights,Townhouse,4,4.0,2656,19452,1996,"$1,024,256",2024-08-19,Active
+L00318,Maple Grove,Condo,5,4.0,2927,14058,1991,"$683,279",2024-07-07,Active
+L00319,Downtown,Single Family,6,3.0,1825,16539,1921,"$852,165",2024-09-19,Pending
+L00320,Old Town,Multi-Family,2,4.0,4330,15973,2023,"$1,048,328",2024-07-21,Sold
+L00321,Lakeview,Single Family,1,1.5,1683,2069,1953,"$533,615",2024-04-20,Active
+L00322,Maple Grove,Single Family,1,2.0,3438,14074,1963,"$814,404",2024-03-28,Sold
+L00323,Lakeview,Single Family,5,2.0,848,19755,1984,N/A,2024-02-28,Sold
+L00324,Harbor Heights,Condo,2,4.5,1179,1225,1949,"$804,818",2024-04-27,Active
+L00325,Lakeview,Single Family,1,1.5,3267,7268,1970,"$881,832",2024-06-09,Active
+L00326,Downtown,Condo,6,2.5,3239,4769,1946,"$663,615",2024-10-06,Withdrawn
+L00327,Lakeview,Single Family,2,4.0,1989,5421,1939,"$680,566",2024-02-14,Pending
+L00328,Maple Grove,Single Family,3,4.5,1872,16676,1968,"$395,995",2024-09-10,Active
+L00329,Downtown,Single Family,1,4.0,1331,10751,1956,"$565,621",2024-04-28,Active
+L00330,Harbor Heights,Single Family,4,2.5,2332,18038,1929,"$1,455,872",2024-08-10,Pending
+L00331,Downtown,Single Family,1,2.0,4417,10391,1997,"$717,410",2024-04-10,Sold
+L00332,Westside,Single Family,6,4.5,867,15465,1955,"$371,171",2024-10-26,Active
+L00333,Lakeview,Multi-Family,3,2.0,1476,2234,0,"$607,732",2024-06-18,Active
+L00334,Harbor Heights,Condo,5,2.0,2964,18821,1962,"$1,999,005",2024-06-13,Active
+L00335,Old Town,Multi-Family,3,2.5,2234,10480,1915,"$1,091,278",2024-06-19,Pending
+L00336,Westside,Single Family,3,1.5,1020,18538,1914,"$292,204",2024-07-31,Active
+L00337,Harbor Heights,Multi-Family,5,4.0,873,5162,2015,"$869,607",2025-03-01,Sold
+L00338,Downtown,Condo,3,3.0,1235,12182,1966,"$358,786",2024-07-09,Active
+L00339,Lakeview,Single Family,4,1.0,2050,646,1966,"$562,977",2024-02-13,Active
+L00340,Lakeview,Single Family,4,2.0,3315,1203,2008,"$859,350",2024-03-11,Pending
+L00341,Westside,Condo,1,3.5,2290,9216,1993,"$606,995",2024-09-29,Withdrawn
+L00342,Old Town,Single Family,3,5.0,2398,15743,1998,"$1,052,015",2024-07-12,Pending
+L00343,Westside,Condo,4,4.0,3334,12163,1921,"$650,295",2024-09-05,Active
+L00344,Downtown,Multi-Family,3,5.0,4101,14207,2013,"$879,854",2024-02-14,Pending
+L00345,Lakeview,Condo,6,2.0,1847,19370,2017,"$640,190",2024-01-09,Sold
+L00346,Downtown,Townhouse,4,3.0,2290,15976,1972,"$649,082",2025-03-16,Sold
+L00347,Maple Grove,Condo,5,2.0,2566,10766,1913,"$575,607",2024-05-27,Active
+L00348,Harbor Heights,Single Family,3,3.5,2983,9022,1950,"$1,125,016",2024-12-08,Active
+L00349,Westside,Condo,1,2.0,3828,5694,1952,"$866,809",2024-05-30,Active
+L00350,Westside,Single Family,6,4.0,4141,7894,1910,"$710,179",2024-11-27,Sold
+L00351,Westside,Single Family,3,3.0,4380,4785,1975,"$857,134",2025-02-01,Active
+L00352,Maple Grove,Townhouse,1,3.5,1236,12880,2015,"$200,083",2024-10-22,Sold
+L00353,Downtown,Townhouse,1,3.5,938,16745,1926,"$570,345",2025-03-06,Active
+L00354,Westside,Condo,6,1.0,3265,12547,1989,"$940,193",2024-03-01,Active
+L00355,Old Town,Multi-Family,3,1.5,2718,3966,1910,"$1,034,947",2024-06-09,Active
+L00356,Maple Grove,Single Family,2,4.5,2274,605,2016,"$360,264",2024-01-18,Active
+L00357,Harbor Heights,Condo,5,4.5,2169,1392,1975,"$1,245,304",2025-01-11,Sold
+L00358,Harbor Heights,Single Family,5,2.5,3632,2281,1999,"$1,359,519",2025-01-28,Active
+L00359,Lakeview,Single Family,4,3.5,2173,4937,0,"$596,336",2024-03-28,Active
+L00360,Old Town,Single Family,6,5.0,4248,6927,1998,"$1,087,786",2024-08-18,Active
+L00361,Downtown,Single Family,1,3.5,2426,10361,2013,"$937,272",2025-01-13,Sold
+L00362,Maple Grove,Single Family,5,2.0,2821,1021,1920,"$613,907",2024-05-17,Active
+L00363,Westside,Condo,2,4.5,3592,3455,1945,"$957,292",2024-02-14,Sold
+L00364,Downtown,Single Family,5,2.5,1083,5856,1963,"$468,720",2024-01-05,Sold
+L00365,Harbor Heights,Single Family,1,3.0,2429,11410,1930,"$1,346,947",2025-02-09,Sold
+L00366,Lakeview,Single Family,5,2.5,1213,11157,2022,"$644,977",2024-10-28,Sold
+L00367,Lakeview,Multi-Family,2,4.5,1422,5096,2021,"$272,936",2024-09-20,Active
+L00368,Old Town,Single Family,3,4.0,1501,14874,1906,"$772,546",2025-02-19,Pending
+L00369,Harbor Heights,Multi-Family,4,1.5,677,13703,1999,"$593,394",2024-10-14,Active
+L00370,Maple Grove,Single Family,6,2.5,3273,14405,1912,"$752,049",2025-03-18,Active
+L00371,Downtown,Single Family,3,2.0,2755,12704,1973,"$1,035,377",2025-01-14,Active
+L00372,Harbor Heights,Single Family,4,3.5,2445,13890,1995,"$1,630,787",2024-01-20,Active
+L00373,Harbor Heights,Single Family,3,2.5,725,8224,2001,"$1,039,094",2024-08-04,Pending
+L00374,Harbor Heights,Multi-Family,1,3.0,4100,15576,2015,"$1,755,535",2024-04-29,Active
+L00375,Harbor Heights,Single Family,6,2.5,708,1832,1997,"$788,390",2025-03-20,Active
+L00376,Westside,Single Family,3,4.5,1863,14401,1915,"$575,899",2025-01-29,Active
+L00377,Harbor Heights,Single Family,4,4.0,2216,11776,1965,"$1,025,795",2024-07-26,Active
+L00378,Lakeview,Multi-Family,1,1.5,3644,7359,1950,"$724,492",2024-03-17,Pending
+L00379,Old Town,Single Family,5,3.5,1448,16437,1936,"$862,919",2024-04-06,Active
+L00380,Westside,Single Family,1,2.0,2126,18202,1982,"$333,355",2024-03-04,Pending
+L00381,Westside,Townhouse,5,4.0,3113,2291,1934,"$400,619",2024-06-20,Active
+L00382,Maple Grove,Single Family,5,1.5,2771,10365,0,"$618,069",2024-07-14,Active
+L00383,Maple Grove,Multi-Family,1,1.0,1703,9502,1967,"$445,603",2024-11-25,Sold
+L00384,Harbor Heights,Townhouse,2,4.0,3748,5295,1991,"$1,624,312",2024-12-06,Active
+L00385,Lakeview,Single Family,1,4.0,2255,10852,1926,"$599,841",2024-08-25,Sold
+L00386,Maple Grove,Townhouse,2,4.0,3204,12170,1945,"$599,278",2025-03-05,Active
+L00387,Westside,Single Family,4,3.0,2933,8611,1987,"$570,297",2024-02-13,Active
+L00388,Old Town,Single Family,3,3.5,4135,8942,2002,"$1,087,000",2025-02-24,Active
+L00389,Old Town,Multi-Family,1,2.0,3576,13513,1936,"$1,029,594",2024-03-07,Active
+L00390,Downtown,Single Family,5,2.0,1337,1166,1905,"$552,834",2024-03-27,Active
+L00391,Westside,Townhouse,4,4.0,1736,8740,1969,"$422,369",2024-11-02,Sold
+L00392,Harbor Heights,Single Family,2,4.5,3810,1874,1999,"$1,855,404",2024-09-28,Pending
+L00393,Maple Grove,Condo,3,4.5,1173,1284,1929,"$329,733",2024-07-21,Sold
+L00394,Downtown,Townhouse,5,2.5,1757,17218,1943,"$833,591",2024-09-24,Active
+L00395,Old Town,Single Family,1,4.0,1256,19413,1975,"$519,034",2024-07-08,Active
+L00396,Maple Grove,Condo,2,4.0,3355,17659,1945,"$684,987",2024-04-27,Withdrawn
+L00397,Downtown,Multi-Family,1,1.0,1805,17524,1966,"$693,258",2024-07-26,Pending
+L00398,Harbor Heights,Condo,1,3.5,4251,5951,1910,"$1,415,145",2024-01-19,Sold
+L00399,Westside,Single Family,5,3.0,3518,1524,2002,"$674,096",2025-01-29,Withdrawn
+L00397,Downtown,Multi-Family,1,1.0,1805,17524,1966,"$693,258",2024-07-26,Pending
+L00234,Westside,Townhouse,6,4.0,3420,5129,1940,"$584,754",2025-03-14,Active
+L00258,Old Town,Single Family,4,3.0,1257,11410,1993,"$1,121,665",2024-11-27,Active
+L00343,Westside,Condo,4,4.0,3334,12163,1921,"$650,295",2024-09-05,Active
+L00264,Downtown,Single Family,6,4.5,3691,950,1918,"$915,340",2024-04-13,Pending
+L00140,Maple Grove,Condo,6,3.5,3145,12326,2002,"$616,280",2024-08-14,Active
