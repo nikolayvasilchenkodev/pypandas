@@ -60,7 +60,7 @@ def _build_parser() -> argparse.ArgumentParser:
 
 def _fmt_cell(value: object) -> str:
     if value is None or (isinstance(value, float) and pd.isna(value)):
-        return Text("—", style="dim").plain  # type: ignore[return-value]
+        return "—"
     if isinstance(value, float):
         if value.is_integer():
             return f"{int(value):,}"
